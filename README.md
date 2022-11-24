@@ -1,4 +1,4 @@
-# loan_application_approval
+# Loan_Approval_Prediction
 Loan-Approval-Prediction 
 Classification Problem as Loan Status of an employee is found using categorical variable (Y,N)
 
